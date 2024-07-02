@@ -1,0 +1,1 @@
+This project explores a unique business concept developed during an Erasmus journey. The idea is to integrate an analog camera hiring service within a cafe to create a memorable experience for tourists. This project is modeled in detail using Business Process Model and Notation (BPMN) and Business Process Execution Language (BPEL).
